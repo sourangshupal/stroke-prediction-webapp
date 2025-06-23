@@ -42,7 +42,7 @@ The application is built with the following components:
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sourangshupal/stroke-prediction-webapp.git
 cd stroke-prediction-webapp
 ```
 
