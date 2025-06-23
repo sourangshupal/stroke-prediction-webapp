@@ -1,0 +1,76 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+venv/
+env/
+ENV/
+
+# Streamlit
+#.streamlit/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Logs
+logs/
+*.log
+
+# Local development settings
+.env
+.env.local
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Model checkpoints and large files
+# Uncomment if you don't want to track model files
+# models/*.pkl
+# models/*.h5
+
+# Data files
+# Uncomment if you don't want to track data files
+# *.csv
+# *.xlsx
+# *.json
