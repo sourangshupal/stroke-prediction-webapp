@@ -9,9 +9,13 @@
 
 This web application uses machine learning to predict stroke risk based on patient data. The model analyzes various health metrics and lifestyle factors to provide a personalized risk assessment.
 
-### Webapp Demo
+### 📊 Webapp Demo
 
 ![Webapp Gif](img/webapp.gif)
+
+![Webapp Deployed Link](https://stroke-prediction-webapp-2bax67v4gloepsd7tqiac8.streamlit.app/)
+
+- 🖥️ **Webapp Deployment**: Deployed Using Streamlit Cloud
 
 ### ✨ Key Features
 
@@ -178,8 +182,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Contributors
 
-- Sourangshu Pal - Initial work and development
-
+- Sourangshu Pal - EDA, WebApp development, Feature Engineering, Model Deployment, Calibration
+- Riyaz Khorasi - Data Collection, Model Validation, Feature Engineering, Code Review, Hyperparamter Tuning, Report Review
+- Prashant Khare - Data Cleaning, Visulaization & Preprocessing, Report, Presentation, Evaluation
 ---
 
 ⭐️ If you find this project useful, please consider giving it a star!
