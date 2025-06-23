@@ -9,6 +9,10 @@
 
 This web application uses machine learning to predict stroke risk based on patient data. The model analyzes various health metrics and lifestyle factors to provide a personalized risk assessment.
 
+### Webapp Demo
+
+![Webapp Gif](img/webapp.gif)
+
 ### ✨ Key Features
 
 - 🔍 **Personalized Risk Assessment**: Analyze individual risk factors
@@ -85,24 +89,30 @@ The application will open in your default web browser at `http://localhost:8501`
 ![Main Dashboard](img/home.png)
 *Main application dashboard showing the risk assessment form*
 
-### Risk Assessment Results
+### Risk Assessment Page
 
 ![Risk Assessment Features](img/risk_assessment.png)
 *Detailed risk assessment results with probability score*
 
+### Risk Assessment Results Page
 
 ![Risk Assessment](img/risk_results.png)
 *Detailed risk assessment results with probability score*
 
 
-### Feature Importance
+### Risk Factors
 
 ![Feature Importance](img/risk_factors.png)
 *Visualization of factors contributing to stroke risk*
 
+### Clinical Recommendations
+
+![Clinical Recommendations](img/recommendations.png)
+*Clinical recommendations based on risk assessment*
+
 > **Note:** To add your own screenshots:
 > 1. Take screenshots of your application
-> 2. Save them in the `screenshots` directory
+> 2. Save them in the `img` directory
 > 3. Update the image paths in this README
 
 ## 📊 Model Information
