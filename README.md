@@ -13,7 +13,7 @@ This web application uses machine learning to predict stroke risk based on patie
 
 ![Webapp Gif](img/webapp.gif)
 
-![Webapp Deployed Link](https://stroke-prediction-webapp-2bax67v4gloepsd7tqiac8.streamlit.app/)
+🔗 [Webapp Deployed Link](https://stroke-prediction-webapp-2bax67v4gloepsd7tqiac8.streamlit.app/)
 
 - 🖥️ **Webapp Deployment**: Deployed Using Streamlit Cloud
 
